@@ -1,0 +1,10 @@
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\bin\Debug\ТИТАН15.exe.config
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\bin\Debug\ТИТАН15.exe
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\bin\Debug\ТИТАН15.pdb
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.csproj.AssemblyReference.cache
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.Form1.resources
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.Properties.Resources.resources
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.csproj.GenerateResource.cache
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.csproj.CoreCompileInputs.cache
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.exe
+D:\Алиев Шамиль\ТИТАН15\ТИТАН15\obj\Debug\ТИТАН15.pdb
