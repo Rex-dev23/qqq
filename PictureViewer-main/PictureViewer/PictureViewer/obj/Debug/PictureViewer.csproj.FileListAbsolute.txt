@@ -1,0 +1,20 @@
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\21is-20 Dryukov Stepan\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.AssemblyReference.cache
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+D:\Алиев Шамиль\PictureViewer-main\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
